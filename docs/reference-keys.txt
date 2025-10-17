@@ -1,1 +1,6 @@
 welcome
+introduction
+goals
+analysis-basics
+visualization-practice
+wrap-up-structure

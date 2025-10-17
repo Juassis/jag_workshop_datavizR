@@ -36,6 +36,13 @@ We will cover both theory and practical exercises.
 - Explore real datasets
 
 
+
+``` {r libraries, echo=TRUE}
+library("webshot2")
+knitr::include_url("https://docs.google.com/presentation/d/1ifS-JNsKchnT3tlZtZsDes7oRqoKTbjO/edit?usp=share_link&ouid=114123940479665238615&rtpof=true&sd=true")
+```
+
+
 <!-- --------------------- Do not edit this and below ---------------------- -->
 
 </br>

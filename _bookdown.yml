@@ -1,5 +1,5 @@
 book_filename: "DataVizR_Workshop"
-output_dir: "_docs"
+output_dir: "docs"        # <-- change from _docs
 delete_merged_file: true
 
 rmd_files: [

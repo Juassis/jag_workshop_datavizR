@@ -1,0 +1,6 @@
+introduction
+goals
+analysis-basics
+visualization-practice
+printing-all-package-versions-good-practice-to-ensure-reproducibility
+wrap-up-structure
